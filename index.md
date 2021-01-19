@@ -7,7 +7,7 @@ A postgraduate student of linguistics, majoring in dialect and experimental phon
 - 🎓 Knowledge of linguistics, especially phonetics and dialects of Chinese.
 - 📱 Tool usage in my academic and daily life.
 - 💻 Notes of learning processing. (Praat Script, Python and R, etc..)
-- 📷 Photos taken by myself & watercolor paintings. [My instagram page](https://www.instagram.com/linansybil/)
+- 📷 Photos taken by myself & watercolor paintings. [linan's instagram](https://www.instagram.com/linansybil/)
 - 💡 Other essays.
 
 ---
