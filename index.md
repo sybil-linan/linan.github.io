@@ -6,5 +6,7 @@ I'm a starter so I'm just trying to share some simple things here:
 - Notes of learning processing. (Praat Script, Python and R, etc..)
 - Photos taken by myself & watercolor paintings.
 - Other essays.
+
 ***
+
 Still learning to use Github... Hope that I can keep this habbit!
