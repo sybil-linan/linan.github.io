@@ -7,6 +7,6 @@ I'm a starter so I'm just trying to share some simple things here:
 - Photos taken by myself & watercolor paintings.
 - Other essays.
 
-***
+---
 
 Still learning to use Github... Hope that I can keep this habbit!
