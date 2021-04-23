@@ -3,7 +3,8 @@
 🎓 Student of linguistics
 
 💻 Start learning to process
+  - R language
+  - Praat script
 
-📷 FUJI XA3
-
-📚 Taking notes of many things.
+📚 Fond of note-taking
+  - Obsidian user
